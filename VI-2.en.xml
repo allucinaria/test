@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg4</Template>
+    <Document>
+<Chapter>
+      <Header>CHAPTER VI</Header>
+      <Name>NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES</Name>
+    </Chapter>
+    <ExternalData>
+      <Numsect>2</Numsect>
+      <Titlesect>International Opium Convention</Titlesect>
+      <Conclusion>The Hague, 23 January 1912</Conclusion>
+      <EIF>
+        <Label>Entry into force</Label>
+        <Labeltext>28 June 1919.</Labeltext>
+      </EIF>
+      <Registration>
+        <Label>Registration</Label>
+        <Labeltext>23 January 1922, No. 222</Labeltext>
+        <Notes>
+          <Note>1</Note>
+        </Notes>
+      </Registration>
+      <TreatyText>
+        <Label>Text</Label>
+        <Text>League of Nations, &lt;i&gt;Treaty Series&lt;/i&gt;, vol. 8, p. 187.</Text>
+      </TreatyText>
+      <TreatyNote>
+        <Text>&lt;i&gt;Observation &lt;/i&gt;&lt;superscript&gt;2&lt;/superscript&gt;: This Convention, although not concluded under the auspices of the League of Nations, served as a starting-point for the system devised by the League of Nations and has, in a sense, been incorporated in that system.</Text>
+      </TreatyNote>
+    </ExternalData>
+</Document>
+  </Treaty>
+</Document>

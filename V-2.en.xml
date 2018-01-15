@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg2</Template>
+    <Document>
+<Chapter>
+      <Header>CHAPTER V</Header>
+      <Name>REFUGEES AND STATELESS PERSONS</Name>
+    </Chapter>
+    <ExternalData>
+      <Numsect>2</Numsect>
+      <Titlesect>Convention relating to the Status of Refugees</Titlesect>
+      <Conclusion>Geneva, 28 July 1951</Conclusion>
+      <EIF>
+        <Label>Entry into force</Label>
+        <Labeltext>22 April 1954, in accordance with article 43.</Labeltext>
+      </EIF>
+    </ExternalData>
+</Document>
+  </Treaty>
+</Document>

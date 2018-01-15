@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+  <Treaty>
+    <Template>mtdsg2</Template>
+    <Document>
+<Chapter>
+      <Header>CHAPTER V</Header>
+      <Name>REFUGEES AND STATELESS PERSONS</Name>
+    </Chapter>
+    <ExternalData>
+      <Numsect>3</Numsect>
+      <Titlesect>Convention relating to the Status of Stateless Persons</Titlesect>
+      <Conclusion>New York, 28 September 1954</Conclusion>
+      <EIF>
+        <Label>Entry into force</Label>
+        <Labeltext>6 June 1960, in accordance with article 39.</Labeltext>
+      </EIF>
+    </ExternalData>
+</Document>
+  </Treaty>
+</Document>
